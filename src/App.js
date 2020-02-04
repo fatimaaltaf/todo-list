@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 
 // implicit return 
 export const App = () => (
