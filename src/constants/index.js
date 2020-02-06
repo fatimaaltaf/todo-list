@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const collatedTasks = [
   {key: 'INBOX', name: 'Inbox'},
   {key: 'TODAY', name: 'Today'},
